@@ -116,22 +116,51 @@
       <option name="project" value="LOCAL" />
       <updated>1749611584773</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished Classes and objects in Java: Practice 1.">
+      <option name="closed" value="true" />
+      <created>1749611715473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749611715473</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finished Classes and objects in Java: Practice 1.">
+      <option name="closed" value="true" />
+      <created>1749611840113</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749611840113</updated>
+    </task>
+    <task id="LOCAL-00004" summary="finished Classes and objects in Java: Practice 1.">
+      <option name="closed" value="true" />
+      <created>1749611914048</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749611914048</updated>
+    </task>
+    <task id="LOCAL-00005" summary="finished Classes and objects in Java: Practice 1.">
+      <option name="closed" value="true" />
+      <created>1749611993591</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749611993591</updated>
+    </task>
+    <task id="LOCAL-00006" summary="finished Classes and objects in Java: Practice 1.">
+      <option name="closed" value="true" />
+      <created>1749612071929</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749612071929</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished Classes and objects in Java: Practice 1." />
     <option name="LAST_COMMIT_MESSAGE" value="finished Classes and objects in Java: Practice 1." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Calculator.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
